@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/galletA_luminance.png",
+  "resources": {
+    "originalImage": "galletA_original.png",
+    "croppedImage": "galletA_cropped.png",
+    "thumbnailImage": "galletA_thumbnail.png",
+    "luminanceImage": "galletA_luminance.png"
+  },
+  "name": "galletA",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 69,
+    "width": 416,
+    "height": 554,
+    "isRotated": false,
+    "originalWidth": 554,
+    "originalHeight": 554
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795299620244,
+  "updated": 1795299620244
+}

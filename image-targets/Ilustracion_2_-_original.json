@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Ilustracion_2_-_original_luminance.png",
+  "resources": {
+    "originalImage": "Ilustracion_2_-_original_original.png",
+    "croppedImage": "Ilustracion_2_-_original_cropped.png",
+    "thumbnailImage": "Ilustracion_2_-_original_thumbnail.png",
+    "luminanceImage": "Ilustracion_2_-_original_luminance.png"
+  },
+  "name": "Ilustracion_2_-_original",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 2,
+    "width": 579,
+    "height": 772,
+    "isRotated": false,
+    "originalWidth": 582,
+    "originalHeight": 772
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795299933383,
+  "updated": 1795299933383
+}
